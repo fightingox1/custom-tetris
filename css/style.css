@@ -91,4 +91,7 @@ h1 {
 	box-shadow: 1px 1px 1px #ddd inset, -1px -1px 1px #222 inset;
 	-webkit-transition: all 150ms;
 	transition: all 150ms;
+	border-style: solid;
+	border-color: black;
+	border-width: 2px;
 }
